@@ -9,7 +9,7 @@ Understand the role of VPNs in protecting privacy and securing communication.
 ## Steps Taken
 1. Signed up for a ProtonVPN free account.
 2. Downloaded and installed the ProtonVPN client.
-3. Connected to a free VPN server (United states server).
+3. Connected to a free VPN server (Netherlands server).
 4. Verified new IP address and location using [whatismyipaddress.com].
 5. Browsed a website (https://openai.com) to test encrypted traffic.
 6. Disconnected VPN and confirmed IP returned to original.
@@ -20,7 +20,7 @@ Understand the role of VPNs in protecting privacy and securing communication.
   - Real IP address starting with 156.x.x.x (real IP hidden for privacy).
   - Normal browsing speed.  
 - **After VPN**:  
-  - IP address changed to United states 138.199.35.117  
+  - IP address changed to Netherlands 185.177.125.137  
   - Website loaded, but chat features on OpenAI didn’t load (likely blocked by VPN IP).
   - Browsing speed noticeably slower (free server congestion).
 
@@ -41,5 +41,7 @@ ProtonVPN successfully masked my IP and encrypted my traffic. However, I experie
 
 ## Screenshot
 
- <img width="1898" height="964" alt="Screenshot 2025-08-15 233617" src="https://github.com/user-attachments/assets/dec502a7-4e17-4467-a82a-6719dab5f113" />
+<img width="1907" height="1006" alt="Screenshot 2025-08-16 000847" src="https://github.com/user-attachments/assets/72e5f287-a456-4a73-b7db-0e38b4ae321e" />
+<img width="1900" height="967" alt="Screenshot 2025-08-16 001002" src="https://github.com/user-attachments/assets/5c3b055b-f609-4a6b-80e1-61af63669394" />
+
 
